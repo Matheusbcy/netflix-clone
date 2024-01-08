@@ -1,5 +1,5 @@
 # Netflix Clone - Next.js Project  
-<blockquote class="imgur-embed-pub" lang="en" data-id="MHRgi5J"><a href="https://imgur.com/MHRgi5J">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<iframe src="https://giphy.com/embed/UIovrbK7VULiBuBt07" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UIovrbK7VULiBuBt07">via GIPHY</a></p>  
 ## Visão Geral  
 Este repositório contém o código-fonte de uma aplicação web de streaming de vídeo, criada como uma clone da Netflix. A aplicação foi desenvolvida utilizando Next.js, uma estrutura React para construção de aplicações web modernas.    
 
